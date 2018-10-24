@@ -1,0 +1,11 @@
+com\ifbk\spring\dao\StudentJDBCTemplate.class
+com\ifbk\spring\Controller\RegisterController.class
+com\ifbk\spring\model\User1.class
+com\ifbk\spring\model\User.class
+com\ifbk\spring\dao\StudentJPA.class
+com\ifbk\spring\dao\StudentDAO.class
+com\ifbk\spring\Controller\ContactController.class
+com\ifbk\spring\dao\StudentMapper.class
+com\ifbk\spring\model\Student.class
+com\ifbk\spring\model\Contact.class
+com\ifbk\spring\Controller\HelloWorldController.class
